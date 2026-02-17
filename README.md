@@ -21,5 +21,3 @@ This is called synthax highlighting ?
 
 | help im stuck in this square table |
 |------|
-
-<h1> uhhh should i make a tut for this stuffs or,,,, /shy </h1>
